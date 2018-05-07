@@ -1,0 +1,27 @@
+Jeff Beeby
+
+Guy Verrier
+
+ETR 164
+
+
+IRC Server Propsal
+
+For this project, our goal is to set up an IRC server and we were given the option to use a raspberry pi. There weren’t many rules leaving the project for us to come up with an idea and run with it.
+
+Objectives:
+  ~First I needed to understand what an IRC Server was and what it did.
+  ~Second I would need to know how to set up a Raspberry Pi.
+  ~Third learn how to burn an ISO file to a SD card
+  ~Fourth I need to find the software needed to do this
+  ~Fifth I need to set it up and see if it actually worked
+  
+I think this project will be interesting for the fact that I will be learning more about linux, how to set up and use a raspberry pi and also to finally understand more about IRC in general. After a quick cursery search i found a few resources that will help out alot. Between Wikipedia, pimylifeup.com and raspberrypi.org I should be able to accomplish this fairly well.
+
+
+Web sites I'll be using to accomplish this task:
+
+
+https://en.wikipedia.org/wiki/Internet_Relay_Chat
+https://pimylifeup.com/raspberry-pi-irc-server/
+https://www.raspberrypi.org/help/noobs-setup/2/
